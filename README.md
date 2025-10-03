@@ -49,7 +49,7 @@ Currently, I'm working as a **Technology Architecture Analyst at Accenture**, wh
 
 ## 📫 Let's Connect
 
-- 🌐 [bryanbee.com](https://www.linkedin.com/in/bryan-bee)
+- 🌐 [linkedin](https://www.linkedin.com/in/bryan-bee)
 
 ---
 
