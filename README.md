@@ -24,9 +24,9 @@ Currently, I'm working as a **Technology Architecture Analyst at Accenture**, wh
 
 ## 📂 Featured Projects
 
-### 🎧 [Spotify Wrapped Clone](https://githubusic analytics app built with Flask and React.js, emulating Spotify's 'Wrapped' feature.
+### 🎧 [Spotify Wrapped Clone] app built with Flask and React.js, emulating Spotify's 'Wrapped' feature.
 
-### 😃 [Human Emotion Detector](https://github.com/yourNN, CNN) to classify human emotions from grayscale images with 60% accuracy.
+### 😃 [Human Emotion Detector] To classify human emotions from grayscale images with 60% accuracy.
 
 ---
 
@@ -49,8 +49,8 @@ Currently, I'm working as a **Technology Architecture Analyst at Accenture**, wh
 
 ## 📫 Let's Connect
 
-- 🌐 [bryanbee.com](https://nkedIn](https://linkedin.com/in/bom
+- 🌐 [bryanbee.com](https://www.linkedin.com/in/bryan-bee)
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+> “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." — Henry Ford
